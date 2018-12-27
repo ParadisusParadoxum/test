@@ -168,7 +168,6 @@ main(void)
       runcmd(parsecmd(buf));
     wait();
   }
-  printf("Hello";
   exit();
 }
 
